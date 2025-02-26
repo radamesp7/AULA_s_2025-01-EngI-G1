@@ -7,7 +7,7 @@
 >> 1. Luciano Everton da Rosa;
 >> 2. Eduardo H. Moura;
 >> 3. Lucas Anghinoni;
->> 4. ...
+>> 4. João V. Bettu
 ---
 - [Basic Syntax MarkDown](https://www.markdownguide.org/basic-syntax/ "MarkDown")
 - [Casos de Estudo](https://docs.google.com/document/d/1flQSuGScGEXjmFSpOafp2XYK3uT1fV6cwkAIw1bERWM/ "Estudo de Caso")
