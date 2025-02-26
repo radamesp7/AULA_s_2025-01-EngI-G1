@@ -10,4 +10,4 @@
 >> 4. ...
 ---
 [Basic Syntax MarkDown](https://www.markdownguide.org/basic-syntax/ "MarkDown")
-[Basic Syntax MarkDown]https://docs.google.com/document/d/1flQSuGScGEXjmFSpOafp2XYK3uT1fV6cwkAIw1bERWM/edit?usp=sharing"Estudo de Caso")
+[Basic Syntax MarkDown](https://docs.google.com/document/d/1flQSuGScGEXjmFSpOafp2XYK3uT1fV6cwkAIw1bERWM/edit?usp=sharing"Estudo de Caso")
