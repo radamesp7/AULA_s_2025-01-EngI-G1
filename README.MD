@@ -6,7 +6,7 @@
 > - Participantes do Grupo
 >> 1. Luciano Everton da Rosa;
 >> 2. Eduardo H. Moura;
->> 3. Lucas Anghinoni
+>> 3. Lucas Anghinoni;
 >> 4. ...
 ---
 - [Basic Syntax MarkDown](https://www.markdownguide.org/basic-syntax/ "MarkDown")
